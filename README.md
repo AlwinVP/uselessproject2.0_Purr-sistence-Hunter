@@ -78,14 +78,20 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-[Screenshot1](Image and demo video/Screenshot 2025-08-09 175239.png)
-*Add caption explaining what this shows*
 
-[Screenshot2](Image and demo video/Screenshot 2025-08-09 175745.png)
-*Add caption explaining what this shows*
+<img width="1919" height="1072" alt="Screenshot 2025-08-09 175239" src="https://github.com/user-attachments/assets/939577f8-f698-42cf-83e2-d2ff40780249" />
 
-[Screenshot3](Image and demo video/Screenshot 2025-08-09 175848.png)
-*Add caption explaining what this shows*
+*Screenshot of building 1*
+
+
+<img width="1919" height="1079" alt="Screenshot 2025-08-09 175313" src="https://github.com/user-attachments/assets/c985bc08-a812-48b7-a438-7998006cd623" />
+*Screenshot of building 2*
+
+<img width="1919" height="1079" alt="Screenshot 2025-08-09 175848" src="https://github.com/user-attachments/assets/95706cbc-737d-43de-b9a2-e72e1c9094f4" />
+
+*Screenshot of building 3*
+
+
 
 # Diagrams
 graph TD
