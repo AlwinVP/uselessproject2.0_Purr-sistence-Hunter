@@ -69,13 +69,47 @@ The fun is in trying different ways to win — but the outcome is always the sam
 ### Implementation
 For Software:
 # Installation
-[commands](https://drive.google.com/drive/folders/1sEzeRcz65rJyZNA_TafXaLfomwvg6YTq?usp=drive_link)
+[Drive link of the app](https://drive.google.com/drive/folders/1sEzeRcz65rJyZNA_TafXaLfomwvg6YTq?usp=drive_link)
 
 # Run
-[commands]
+[Downloas the folder or the zip from the drive and run it in a windows PC. The app is build for the PC with the device simulator but it can be used in VR headset]
 
 ### Project Documentation
-For Software:
+For Software:Game Mechanics
+Grab & Throw – Use VR controllers to pick up the cat and toss it away.
+
+Race to Origin – After throwing, the player must reach the cat’s original spot (the grab point).
+
+Cat’s Return – Once released, the cat will instantly start returning to its original position at an unbeatable speed.
+
+Win/Lose Conditions:
+
+Player Wins – Reach the spot before the cat (never happens, but it’s coded in).
+
+Cat Wins – The cat reaches the spot first (always happens).
+
+Controls
+Grab: Grip button (VR controller) or space + G keys
+
+Throw: Release grip with a throwing motion
+
+Teleport/Move: VR joystick or teleport controlsor space + W keys
+
+How to Play
+Grab the cat.
+
+Throw it as far as you can.
+
+Run or teleport back to where you first grabbed it.
+
+Watch the cat beat you there.
+
+Laugh, repeat.
+
+
+
+
+
 
 # Screenshots (Add at least 3)
 
@@ -127,8 +161,7 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
