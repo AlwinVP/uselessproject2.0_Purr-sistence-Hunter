@@ -74,38 +74,38 @@ For Software:
 # Run
 [Downloas the folder or the zip from the drive and run it in a windows PC. The app is build for the PC with the device simulator but it can be used in VR headset]
 
-### Project Documentation
-*Game Mechanics*
-Grab & Throw – Use VR controllers to pick up the cat and toss it away.
+## 🎮 Game Mechanics
 
-Race to Origin – After throwing, the player must reach the cat’s original spot (the grab point).
+- **Grab & Throw** – Use VR controllers to pick up the cat and toss it away.  
+- **Race to Origin** – After throwing, the player must return to the cat’s original grab point.  
+- **Cat’s Return** – Once released, the cat instantly starts returning to its starting position at *unbeatable* speed.  
 
-Cat’s Return – Once released, the cat will instantly start returning to its original position at an unbeatable speed.
+---
 
-Win/Lose Conditions:
+## 🏆 Win/Lose Conditions
 
-Player Wins – Reach the spot before the cat (never happens, but it’s coded in).
+- **Player Wins** – Reach the spot before the cat *(never happens, but coded in)*.  
+- **Cat Wins** – The cat reaches the spot first *(always happens)*.  
 
-Cat Wins – The cat reaches the spot first (always happens).
+---
 
-*Controls*
-Grab: Grip button (VR controller) or space + G keys
+## 🕹 Controls
 
-Throw: Release grip with a throwing motion
+| Action             | VR Controller             | Keyboard                |
+|--------------------|---------------------------|-------------------------|
+| Grab               | Grip button               | `Space` + `G`           |
+| Throw              | Release grip + throw motion | Release `G` + motion  |
+| Move / Teleport    | VR joystick / teleport controls | `Space` + `W`       |
 
-Teleport/Move: VR joystick or teleport controlsor space + W keys
+---
 
-*How to Play*
-Grab the cat.
+## 📜 How to Play
 
-Throw it as far as you can.
-
-Run or teleport back to where you first grabbed it.
-
-Watch the cat beat you there.
-
-Laugh, repeat.
-
+1. **Grab** the cat.  
+2. **Throw** it as far as you can.  
+3. **Run** or **teleport** back to where you first grabbed it.  
+4. **Watch** the cat beat you there.  
+5. **Laugh**. Repeat.  
 
 
 
@@ -139,7 +139,7 @@ Laugh, repeat.
 ### Project Demo
 # Video
 [Demo video link here](https://drive.google.com/file/d/1hmSTc0HjGxq1PYONdfpPT5hvQDmACRBG/view?usp=drive_link)
-*Explain what the video demonstrates*
+
 
 
 
