@@ -75,7 +75,7 @@ For Software:
 [Downloas the folder or the zip from the drive and run it in a windows PC. The app is build for the PC with the device simulator but it can be used in VR headset]
 
 ### Project Documentation
-For Software:Game Mechanics
+*Game Mechanics*
 Grab & Throw – Use VR controllers to pick up the cat and toss it away.
 
 Race to Origin – After throwing, the player must reach the cat’s original spot (the grab point).
@@ -88,14 +88,14 @@ Player Wins – Reach the spot before the cat (never happens, but it’s coded i
 
 Cat Wins – The cat reaches the spot first (always happens).
 
-Controls
+*Controls*
 Grab: Grip button (VR controller) or space + G keys
 
 Throw: Release grip with a throwing motion
 
 Teleport/Move: VR joystick or teleport controlsor space + W keys
 
-How to Play
+*How to Play*
 Grab the cat.
 
 Throw it as far as you can.
@@ -128,30 +128,23 @@ Laugh, repeat.
 
 
 # Diagrams
-graph TD
-    A[Player grabs cat] --> B[Store grab position]
-    B --> C[Player throws the cat]
-    C --> D[Cat runs back to grab position]
-    C --> E[Player runs back to grab position]
-    D --> F[Compare who arrived first → Declare winner]
-    E --> F
 
 
-For Hardware:
+![WhatsApp Image 2025-08-09 at 18 34 52_9230d192](https://github.com/user-attachments/assets/a843fd49-f1cf-4bf1-8532-f267214e9879)
+
+
 
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[Demo video link here](https://drive.google.com/file/d/1hmSTc0HjGxq1PYONdfpPT5hvQDmACRBG/view?usp=drive_link)
 *Explain what the video demonstrates*
 
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Collective collaboration of both of us.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
