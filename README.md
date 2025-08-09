@@ -78,13 +78,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](Image and demo video/Screenshot 2025-08-09 175239.png)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](Image and demo video/Screenshot 2025-08-09 175745.png)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](Image and demo video/Screenshot 2025-08-09 175848.png)
 *Add caption explaining what this shows*
 
 # Diagrams
